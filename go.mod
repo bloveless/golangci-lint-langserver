@@ -1,4 +1,4 @@
-module github.com/nametake/golangci-lint-langserver
+module github.com/bloveless/golangci-lint-langserver
 
 go 1.23.4
 
